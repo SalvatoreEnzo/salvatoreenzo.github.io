@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - googlec1617493935d44c0.html
 
 website:
   title: "Enzo Salvatore"
@@ -19,7 +21,7 @@ website:
         text: Contact
     right:
       - icon: github
-        href: "https://salvatoreenzo.github.io/"
+        href: "https://github.com/SalvatoreEnzo"
       - icon: envelope
         href: "mailto:enzo.salvatore@univ-rouen.fr"
   page-footer:
