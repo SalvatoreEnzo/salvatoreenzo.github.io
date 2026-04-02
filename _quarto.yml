@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Enzo Salvatore"
-  site-url: "https://VOTRE-USERNAME.github.io/site-perso/"
+  site-url: "https://salvatoreenzo.github.io/"
   navbar:
     left:
       - href: index.qmd
@@ -19,7 +19,7 @@ website:
         text: Contact
     right:
       - icon: github
-        href: "https://github.com/VOTRE-USERNAME"
+        href: "https://salvatoreenzo.github.io/"
       - icon: envelope
         href: "mailto:enzo.salvatore@univ-rouen.fr"
   page-footer:
