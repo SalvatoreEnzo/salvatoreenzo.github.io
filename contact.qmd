@@ -1,0 +1,15 @@
+---
+title: "Contact"
+---
+
+## Coordonnées
+
+- **Nom** : Enzo Salvatore
+- **Adresse** : 14000 Caen, France
+- **Téléphone** : +33 6 42 40 71 06
+- **Email** : [enzo.salvatore\@univ-rouen.fr](mailto:enzo.salvatore@univ-rouen.fr)
+
+## Affiliation
+
+**Laboratoire d'Économie Rouen Normandie (LERN UR 4702)**\
+Université de Rouen Normandie

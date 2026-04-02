@@ -1,0 +1,51 @@
+---
+title: "CV"
+---
+
+## Profil de recherche
+
+Doctorant en économie, membre du **LERN UR 4702** à l'Université de Rouen Normandie. Je travaille sur la modélisation de la gestion intégrée des usages de l'eau et l'évaluation de politiques d'adaptation au changement climatique à l'aide de modèles d'équilibre général calculable (MEGC), dans un cadre micro–macro.
+
+## Formation
+
+### Depuis 2023
+**Doctorat en économie (3e année)** — Université de Rouen Normandie  
+Thèse : *Modélisation de la gestion intégrée des usages de l'eau. Une approche micro–macro*  
+Rattachement : Laboratoire d'Économie Rouen Normandie (LERN UR 4702)  
+Encadrement : Olivier Beaumais (directeur), Hélène Maisonnave (co-directrice)
+
+### 2021–2023
+**Master Économie et management publics** — Université de Caen Normandie  
+Parcours expertise de la recherche en économie. Mémoire sur le modèle IS–LM et l'équilibre macroéconomique environnemental.  
+Encadrement : Clémence Christin
+
+### 2018–2021
+**Licence Économie** — Université de Caen Normandie
+
+## Responsabilités collectives
+
+- Membre temporaire du conseil de laboratoire (2025–présent)
+- Co-organisation du séminaire doctoral et des groupes de travail doctoraux (2025–présent)
+- Co-organisation du séminaire du LERN (2025–présent)
+- Membre du comité d'organisation des Doctoriales du LERN (19 juin 2025)
+
+## Projets en cours
+
+- Projet de thèse sur la gestion intégrée des usages de l'eau, combinant informations hydrologiques et modélisation micro–macro des politiques de l'eau
+- Enquête ménages sur les usages domestiques de l'eau : conception du questionnaire, collecte, nettoyage et premières analyses descriptives
+
+## Compétences
+
+- **Quantitatif et modélisation** : MEGC, analyse macroéconomique environnementale et régionale, évaluation de politiques publiques
+- **Logiciels et programmation** : R, Python, Julia, GAMS, QGIS, Microsoft Office, LaTeX
+- **Organisation et travail en équipe** : séminaires, ateliers, coordination de groupes doctoraux, encadrement opérationnel
+
+## Langues
+
+- Français : langue maternelle
+- Anglais : niveau intermédiaire
+- Espagnol : notions
+
+## Centres d'intérêt
+
+Sports extrêmes, modélisation économique, politiques de l'eau et du climat, musique, cinéma

@@ -1,0 +1,28 @@
+---
+title: "Publications"
+---
+
+## Working papers
+
+::: card-lite
+**Henseler, M., H. Maisonnave et E. Salvatore (2025).**\
+*How Water Flows Through CGE Models: A Systematic Review*.\
+Working paper sur HAL (hal-05263526).
+:::
+
+::: card-lite
+**Henseler, M., H. Maisonnave et E. Salvatore (2026).**\
+*Regional Resilience to Climate-Induced Water Scarcity: Evidence from Seine Aval* Working paper sur HAL (hal-05440805).
+:::
+
+## Communications scientifiques
+
+### Colloques
+
+- **Henseler, M., H. Maisonnave et E. Salvatore (2025).** « L'eau dans les modèles d'équilibre général calculable — une revue systématique ». *Innovations*, hors-série HS1 (Forum de l'innovation 2025), p. 193. DOI : 10.3917/inno.hs1.2025.0193.
+
+### Séminaires
+
+- **Séminaire du LERN**, Université de Rouen Normandie, 15 janvier 2026. Présentation du working paper *How Water Flows Through CGE Models: A Systematic Review*.
+
+##

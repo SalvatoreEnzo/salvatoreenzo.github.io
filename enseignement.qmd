@@ -1,0 +1,28 @@
+---
+title: "Enseignement"
+---
+
+## Expérience d'enseignement
+
+### Université de Rouen Normandie
+
+::: {.card-lite}
+#### L2 Économie — *Marché et système de prix* (118 h)
+
+- **2024–2025** : Chargé de TD (microéconomie) — 64 h
+- **2025–2026** : Chargé de TD (microéconomie) — 54 h
+- Conception et animation de TD, préparation d'exercices et d'évaluations, séances d'entraînement et contrôles blancs
+:::
+
+::: {.card-lite}
+#### L1 Économie — *Consommateur et Producteur* (10 h)
+
+- **2025–2026** : Chargé de TD (microéconomie) — 10 h
+- Introduction aux bases de la microéconomie, consolidation du raisonnement économique et de la méthode
+:::
+
+## Encadrement et animation
+
+- Co-organisation du séminaire doctoral et des groupes de travail doctoraux
+- Co-organisation du séminaire du LERN
+- Mentorat bénévole auprès d'étudiants de licence et de master

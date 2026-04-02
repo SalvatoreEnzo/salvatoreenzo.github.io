@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Enzo Salvatore"
+  site-url: "https://VOTRE-USERNAME.github.io/site-perso/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: publications.qmd
+        text: Publications
+      - href: enseignement.qmd
+        text: Enseignement
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: "https://github.com/VOTRE-USERNAME"
+      - icon: envelope
+        href: "mailto:enzo.salvatore@univ-rouen.fr"
+  page-footer:
+    left: "© 2026 Enzo Salvatore"
+    right: "Site réalisé avec Quarto"
+  search: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    lang: fr
+    smooth-scroll: true
+
+editor: visual
